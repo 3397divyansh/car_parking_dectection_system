@@ -80,5 +80,4 @@ pip install opencv-python cvzone numpy
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-This `README.md` file provides clear instructions and context for setting up and running the parking space counter project.
+ 
